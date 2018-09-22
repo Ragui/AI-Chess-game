@@ -1,0 +1,10 @@
+Author: BitBot software developers from UCI.
+This is version 1.0 of our chess software "Kingdoms!".
+To install, please type make. 
+To start the Game, please type ./bin/chess.
+To test, please type make test.
+Our program supports choosing color, choosing mode, playing vs your friend, playing vs the computer.
+The software let you undo your move, and it displays very clear messages in case of errors.
+For more instructions, please refer to the user manual and software specefication files.
+This version is released on Sunday February 4. 
+

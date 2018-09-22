@@ -1,0 +1,2 @@
+To install, please type tar xvzf Chess_Alpha_src.tar.gz, then make.
+If you have already extracted the archive, only type make.
